@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @silviootalora
-- 👀 I’m interested in learn Machine Learning and better my hability analitys
+- 👋 Hi, I’m @Silvio
+- 👀 I’m interested in learn Machine Learning and improving my skills analitys
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on proyec where true desafios
+- 💞️ I’m looking to collaborate on proyects find where real challange
 - 📫 How to reach me ...
 <!---
 silviootalora/silviootalora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
